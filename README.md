@@ -3,6 +3,7 @@
 
 - 🔭 Trabalho na área adminstrativa atualmente
 - 🌱 Estudando HTML, CSS e JavaScript
+- 📧 nathaliarramos@outlook.com
 - 😄 Pronomes: ela/dela
 
 <div align="center">

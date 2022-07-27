@@ -1,7 +1,6 @@
 ### Olá! 👋
 
 
-- 🔭 Trabalho na área adminstrativa atualmente
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📧 nathaliar.ramos@outlook.com
 - 😄 Pronomes: ela/dela

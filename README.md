@@ -3,7 +3,7 @@
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📧 nathaliar.ramos@outlook.com
-- 😄 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/nathaliaramos">
